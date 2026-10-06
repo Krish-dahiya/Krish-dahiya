@@ -14,6 +14,8 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=180&section=header&text=Multi-Utility%20Toolkit&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
 ## 🧑‍💻 About Me
 
 I'm **Krish Kumar Prajapat**, a student passionate about **Data Science, Programming, and Technology**.
