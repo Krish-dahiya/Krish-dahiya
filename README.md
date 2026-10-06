@@ -13,6 +13,13 @@
 > 🎯 Learning today. Building tomorrow. Solving real-world problems with technology.
 
 ---
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is krish dahiya and I like python." src="images/personal_note.svg" />
+  <br />
+  <br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=180&section=header&text=Multi-Utility%20Toolkit&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
