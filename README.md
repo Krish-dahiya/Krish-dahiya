@@ -227,7 +227,12 @@ I'm always interested in:
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
 
 **Keep Learning • Keep Building • Keep Growing 🚀**
 
